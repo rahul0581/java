@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+      <div id="content_area">
+    <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
+        <tr> 
+            <td>
+<title>Chess Strategy</title>
+<b>Tips for Winning Chess Strategy</b><br>
+<i>Keep your King safe when you play chess</i><br>
+<br>
+<h1 style="text-align: center;">Winning Chess Strategy</h1>
+<h4>Keep your King safe when you play chess</h4>
+<p>Everyone knows when you play chess that the object of the game is to checkmate the opponent's King. But sometimes a player thinks about his own plans so much that he forgets that his opponent is also King hunting!</p>
+<p>It's generally a good idea when you play chess is to place your King in a safe place by castling early in the game. Once you've castled, you should be very careful about advancing the pawns near your King. They are like bodyguards; the farther away they go, the easier it is for your opponent's pieces to get close to your King. (For this reason, it's often good to try to force your opponent to move the pawns near his King.)</p>
+<div>
+<h4>Example I<br></h4></div>
+<div align="center"><img alt="" src="890.jpg" border="0" width="338" height="338"></div>
+<p>We've learned many important objectives: advantage in material, better development, control of the center, and now King safety. Which of these is the most important?</p><a title="Chess Strategy" href="csa.html"><span style="font-weight: bold;">Winning Chess Strategy- Answer</span></a>
+<p><span style="font-weight: bold;">Thank you for visiting our chess strategy page.&nbsp; </span></p>
+</td>
+</tr>
+</table>
+</body>
+</html>

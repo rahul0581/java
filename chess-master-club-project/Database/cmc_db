@@ -1,0 +1,215 @@
+-- MySQL dump 10.13  Distrib 5.5.9, for Win32 (x86)
+--
+-- Host: localhost    Database: cmc_db
+-- ------------------------------------------------------
+-- Server version	5.5.15
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Current Database: `cmc_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `cmc_db` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+USE `cmc_db`;
+
+--
+-- Table structure for table `admin`
+--
+
+DROP TABLE IF EXISTS `admin`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `admin` (
+  `USERNAME` varchar(25) NOT NULL,
+  `PASSWORD` varchar(10) NOT NULL,
+  PRIMARY KEY (`USERNAME`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `admin`
+--
+
+LOCK TABLES `admin` WRITE;
+/*!40000 ALTER TABLE `admin` DISABLE KEYS */;
+INSERT INTO `admin` VALUES ('admin','rahul');
+/*!40000 ALTER TABLE `admin` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `fqueries`
+--
+
+DROP TABLE IF EXISTS `fqueries`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `fqueries` (
+  `FQ_ID` int(100) NOT NULL AUTO_INCREMENT,
+  `FQ_NAME` varchar(20) NOT NULL,
+  `FQ_EMAIL` varchar(20) NOT NULL,
+  `FQ_SUBJECT` varchar(20) NOT NULL,
+  `FQ_QUESTION` varchar(50) NOT NULL,
+  `FQ_ANSWER` varchar(500) DEFAULT 'x',
+  PRIMARY KEY (`FQ_ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `fqueries`
+--
+
+LOCK TABLES `fqueries` WRITE;
+/*!40000 ALTER TABLE `fqueries` DISABLE KEYS */;
+INSERT INTO `fqueries` VALUES (1,'rahul','ra@gmail.com','test','test','x');
+/*!40000 ALTER TABLE `fqueries` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `funplayer`
+--
+
+DROP TABLE IF EXISTS `funplayer`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `funplayer` (
+  `EMAILID` varchar(100) NOT NULL,
+  `ADDRESS` varchar(300) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `funplayer`
+--
+
+LOCK TABLES `funplayer` WRITE;
+/*!40000 ALTER TABLE `funplayer` DISABLE KEYS */;
+/*!40000 ALTER TABLE `funplayer` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `queries`
+--
+
+DROP TABLE IF EXISTS `queries`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `queries` (
+  `Q_ID` int(100) NOT NULL AUTO_INCREMENT,
+  `Q_SUBJECT` varchar(200) NOT NULL,
+  `Q_QUESTION` varchar(500) NOT NULL,
+  `Q_ANSWER` varchar(500) NOT NULL,
+  PRIMARY KEY (`Q_ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `queries`
+--
+
+LOCK TABLES `queries` WRITE;
+/*!40000 ALTER TABLE `queries` DISABLE KEYS */;
+INSERT INTO `queries` VALUES (1,'test','this is testing quires...','x'),(2,'1','1','x');
+/*!40000 ALTER TABLE `queries` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tournament`
+--
+
+DROP TABLE IF EXISTS `tournament`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tournament` (
+  `T_ID` varchar(10) NOT NULL,
+  `T_NAME` varchar(100) NOT NULL,
+  `T_DATE` varchar(10) NOT NULL,
+  `T_VENU` varchar(100) NOT NULL,
+  PRIMARY KEY (`T_ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tournament`
+--
+
+LOCK TABLES `tournament` WRITE;
+/*!40000 ALTER TABLE `tournament` DISABLE KEYS */;
+INSERT INTO `tournament` VALUES ('1','gold','11/26/2016','manchester'),('2','silver','11/30/2016','Boston');
+/*!40000 ALTER TABLE `tournament` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tournamentplayer`
+--
+
+DROP TABLE IF EXISTS `tournamentplayer`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tournamentplayer` (
+  `EMAILID` varchar(45) NOT NULL,
+  `NAME` varchar(100) NOT NULL,
+  `PASSWORD` varchar(10) NOT NULL,
+  `AGE` int(11) NOT NULL,
+  `GENDER` varchar(10) NOT NULL,
+  `STATUS` varchar(10) DEFAULT 'x',
+  `RANK` varchar(10) DEFAULT '0',
+  PRIMARY KEY (`EMAILID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tournamentplayer`
+--
+
+LOCK TABLES `tournamentplayer` WRITE;
+/*!40000 ALTER TABLE `tournamentplayer` DISABLE KEYS */;
+INSERT INTO `tournamentplayer` VALUES ('rahul@gmail.com','rahul','123',25,'male','x','0');
+/*!40000 ALTER TABLE `tournamentplayer` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `video`
+--
+
+DROP TABLE IF EXISTS `video`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `video` (
+  `id` int(100) NOT NULL AUTO_INCREMENT,
+  `name` varchar(40) DEFAULT NULL,
+  `link` varchar(35) DEFAULT NULL,
+  `keyword` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `video`
+--
+
+LOCK TABLES `video` WRITE;
+/*!40000 ALTER TABLE `video` DISABLE KEYS */;
+/*!40000 ALTER TABLE `video` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2016-12-12 14:59:06

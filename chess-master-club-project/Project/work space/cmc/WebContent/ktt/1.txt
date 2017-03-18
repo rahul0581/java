@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+      <div id="content_area">
+
+    <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
+        <tr> 
+            <td>
+<b>Tips for Winning Chess Strategy</b><br>
+<i>Look at your opponent's move when you play chess.</i><br>
+<br>
+<h1 style="text-align: center;">Winning Chess Strategy</h1>
+<h4>Look at your opponent's move when you play chess.</h4>
+<p>When you play chess every time your opponent makes a move, you should stop and think: Why was that move chosen? Is a piece in danger? Are there any other threats I should watch out for? What sort of plan does my opponent have in mind?</p>
+<p>Only by defending against your opponent's threats will you be able to successfully carry out your own strategies. Once you figure out what your opponent is attempting to do, you can play to nip those plans in the bud.</p>
+<div>
+<h4>Example A<br>Black to move</h4></div>
+<div align="center"><img alt="" src="123.jpg" border="0" width="338" height="338"></div>
+<p>Pretend you're playing black in this position. White has just moved his queen to f3. What's the threat? How should you move to meet his threat?</p><a title="Chess Strategy" href="csa.html"><span style="font-weight: bold;">Winning Chess Strategy- Answer</span></a>
+<p><span style="font-weight: bold;">Thank you for visiting our chess strategy page.&nbsp; </span></p>
+
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

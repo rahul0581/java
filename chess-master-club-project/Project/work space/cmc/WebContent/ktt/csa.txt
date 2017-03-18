@@ -1,0 +1,482 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+      <div id="content_area">
+
+    <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
+        <tr> 
+            <td>
+			<b>Tips for Winning Chess Strategy - Answers</b><br>
+<i>Answers to the 10 Tips examples</i><br>
+<br>
+<h1 style="text-align: center;">Winning Chess Strategy</h1>
+<p align="center">
+</p><h3 align="center"><span style="font-style: italic;">by International Grandmaster Arthur Bisguier</span></h3>
+<p></p><h2>Answers to Chess Strategy Examples<br></h2>
+
+<p><span style="font-weight: bold;">Chess Strategy - Example A:
+</span>White is threatening to play Qxf7 checkmate! Black defends best by
+moving 1...Nf6. This move meets the threat and develops the Knight to a
+good square.</p>
+<p><span style="font-weight: bold;">Chess Strategy- Example B:
+</span>White can win his pawn back immediately with a move like 1.Nbxd4.
+But did you look for a better move? By playing 1 Nc7+, you can win Black's Queen!</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example C:
+</span>One good plan for White here would be an attack on Black's
+King.
+Once he has decided to do this, White should figure out how to bring his pieces
+to that area of the board. After 1.f4, for example, White can bring his Rook to
+f3 and then to g3 or h3, where it would exert pressure around Black's King.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example D:
+</span>White's threat here is to play Nxf7, with a double attack on
+Black's Queen and Rook. Black should simply castle (0-0). Now if White continues
+with his "threat," Black merely captures the Knight and the Bishop.
+That continuation would be</p>
+<p>1...0-0&nbsp; 2.Nxf7 Rxf7 3.Bxf7+ Kxf7</p>
+<p>You can see that White has traded Bishop and Knight for Black's Rook and
+pawn. That's about an even exchange, except - in the early part of the game
+especially - these two pieces are often handier than the Rook. Note that White
+has exchanged his only developed pieces, while Black has a Bishop and two Knights ready to attack.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example E:</span>
+Here is an example where a Knight is better than a Bishop. The
+Bishop is trapped behind its own pawns, while the Knight is free to hop in and
+out of Black's position. It will be easy to maneuver the Knight to f6, and if Black defends the pawn at h7 with his
+King, White's King will enter Black's
+position by way of c5 or e5, with decisive effect.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example F:</span>
+The tables turn; Black's Knight moves so slowly that after
+1 h6,
+the pawn cannot be prevented from reaching the eighth rank and being promoted.
+If Black has a Bishop on b6 instead of the Knight, he could answer 1.h6 with 1...Bd4+, when the
+Bishop would control the crucial square h8.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example G:
+</span>It is easy to see that White has control of the center in this
+position. His pawns occupy center squares, while Black's pawns are not
+yet
+involved in the struggle. Note how easy it will be for White to develop
+his Bishops to squares that help control the center, while
+Black's Bishops are
+hemmed in by his own pawns.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example H:
+</span>There, too, White has more central control and a freer game. The
+pawn at e4 attacks two squares on Black's half of the board and helps control
+d5, preventing the pawn on d6 from advancing while providing protection in the
+event that white plays Nd5. White can put a Rook on d1 later to put pressure on
+the d-file.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example I:
+</span>This example shows why King safety is the most important factor.
+Black is ahead in material by a Bishop and a pawn, has control of the center,
+and has more pieces developed, but this is all worthless because he is unable to
+prevent white from playing Qxh7, checkmate!</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example J:
+</span>White has doubled pawns on the e-file, normally a disadvantage.
+Here, though, the pawn on e3 controls the vital squares d4 and f4. Also, White
+can mount an attack by putting his Rooks and Queen on the f-file, which is no
+longer blocked by one of his pawns.</p>
+<p>These doubled pawns could turn out to be weak in the endgame.
+Therefore, White should avoid unnecessary exchanges and concentrate on
+winning in the
+middlegame.</p>
+<p>As you can see, this forces Black's Queen to capture White's Queen, placing
+the White King in stalemate. The game would be a draw!</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example K:
+ </span> Black has the "healthier" set of pawns here, since
+White
+has doubled pawns on both the a- and c-files. Such pawns cannot protect each
+other. Also, notice that the trailing or "caboose" pawn must stay
+forever behind his leader. A set of doubled pawns are worth little more than one
+pawn.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example L:
+ </span> Did you get this one? It's a toughie. As Black in this superior
+position, if you capture White's Knight on e5 with your Knight (1...Nxe5)
+instead of your Queen (1...Qxe5), then white should move 2.Qf2+!</p>
+
+<p><span style="font-weight: bold;">Thank you for visiting our chess strategy page.&nbsp; <a title="Chess Strategy" href="https://www.chesscentral.com/Chess_Strategy_a/201.htm">Here are&nbsp; more tips on chess strategy. </a><br></span></p>
+
+            </td>
+        </tr>
+    </table>
+
+
+</div>
+    
+    <div class="clear"></div>
+</div>
+<div id="content_bottom"></div>
+
+<!-- ======================== FOOTER ======================== -->
+<div id="footer">
+	<!-- ======================== Mailing List Section ======================== -->
+
+	<div id="eList">
+		<div class="title">Sign up for the ChessCentral newsletter for exclusive deals and discounts</div>
+		<form onsubmit="return verifyRequired9337();" accept-charset="UTF-8" id="icpsignup9337" name="icpsignup" action="http://app.icontact.com/icp/signup.php" method="post">
+<input type="hidden" value="https://www.chesscentral.com/Articles.asp?ID=287" name="redirect">
+<input type="hidden" value="http://www.icontact.com/www/signup/error.html" name="errorredirect">
+    <input type="hidden" value="82825" name="listid">
+    <input type="hidden" value="88CZ" name="specialid:82825">
+
+    <input type="hidden" value="491700" name="clientid">
+    <input type="hidden" value="9337" name="formid">
+    <input type="hidden" value="1" name="reallistid">
+    <input type="hidden" value="1" name="doubleopt">
+		  <input type="text" id="elist_input" name="fields_email" value="Email Address" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}" /> 
+		  <input type="submit" name="Submit" id="elist_submit" value="" />
+		</form>
+<script type="text/javascript">
+
+var icpForm9337 = document.getElementById('icpsignup9337');
+
+if (document.location.protocol === "https:")
+
+	icpForm9337.action = "https://app.icontact.com/icp/signup.php";
+function verifyRequired9337() {
+  if (icpForm9337["fields_email"].value == "") {
+    icpForm9337["fields_email"].focus();
+    alert("The Email field is required.");
+    return false;
+  }
+
+
+return true;
+}
+</script>
+	</div>
+        
+	<div id="footer_top">
+		<ul style="width:178px;">
+			<li><a href="/Chess_Customer_Service_Contact_a/46.htm">Contact Us</a></li>
+			<li><a href="/Chess_Hekp_FAQ_%20Tech%20Supporte_a/468.htm">FAQ</a></li>
+			<li><a href="/Chess_Shipping_Rates_and_Delivery_Times_s/151.htm">Shipping</a></li>
+			<li><a href="/ChessCentral_s_Return_Policy_s/150.htm">Returns</a></li>
+			<li><a href="/Order_by_Mail_Purchase_Order_a/133.htm">Purchase Orders</a></li>
+			<li><a href="/Order_by_Mail_Purchase_Order_a/133.htm">Mail in Orders</a></li>			
+		</ul>
+		
+		<ul style="width:180px;">
+			<li><a href="http://www.chesscentral.com/login.asp">Sign In</a></li>
+			<li><a href="http://www.chesscentral.com/register.asp">Register</a></li>
+			<li><a href="http://www.chesscentral.com/myaccount.asp">My Account</a></li>
+			<li><a href="http://www.chesscentral.com/shoppingcart.asp">View Cart</a></li>
+			<li><a href="http://www.chesscentral.com/Orders.asp">Order Status</a></li>
+			<li><a href="/Chess_Gift_Certificate_p/gft.htm">Gift Certificates</a></li>
+		</ul>
+		
+		<ul style="width:142px;">			
+			<li><a href="/ChessCentral_s_Privacy_Policy_s/148.htm">Privacy Policy</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.chesscentral.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')">SSL</a></li>
+			<li><a href="http://www.chesscentral.com/one-page-checkout.asp">Checkout</a></li>
+			<li><a href="http://www.chesscentral.com/Articles.asp?ID=4">Terms of Use</a></li>
+			<li><a href="/cindex.asp">Category Index</a></li>
+			<li><a href="/pindex.asp">Product Index</a></li>
+		</ul>
+		
+		<ul>
+			<li><a href="http://www.chesscentral.com/aboutus.asp">Our Story</a></li>
+			<li><a href="http://www.chesscentral.com/cindex.asp">Site Map</a></li>
+			<li><a href="http://www.chesscentral.com/Customer_Testimonials_s/149.htm">Testimonials</a></li>
+			<li><a href="http://www.chessexchange.com/forum/">Chess Exchange</a></li>
+			<li><a href="http://www.freechessarea.com/">Free Chess Area</a></li>
+		</ul>
+		
+		<div id="social_box">
+			<a href="http://www.facebook.com/pages/ChessCentral/249655316135" target="_blank"><img src="/v/vspfiles/templates/chesscentral/images/template/facebook.gif" alt="" /></a>
+			<a href="http://twitter.com/#!/ChessCentral" target="_blank"><img src="/v/vspfiles/templates/chesscentral/images/template/twitter.gif" alt="" /></a>
+			<a href="http://chesscentral.wordpress.com/" target="_blank"><img src="/v/vspfiles/templates/chesscentral/images/template/rss.gif" alt="" /></a>
+		</div>
+		
+		<div id="security_bar">
+			<a class="ssl" href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.chesscentral.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"></a>
+		  <a class="authorize" href="http://verify.authorize.net/anetseal/?pid=ae87f416-8a9d-40d2-91d9-61432d207689&rurl=http%3A//www.chesscentral.com/"></a>
+		  <a href="https://www.bbb.org/dallas/business-reviews/computers-hardware-software-and-services/chesscentral-in-charlotte-nc-90005265#bbblogo" class="bbb"></a>
+		  <a href="#" class="google_checkout"></a>
+		</div>
+	</div>
+	
+    <div id="footer_bottom">
+	<p><a href="/terms.asp">Copyright &copy; <script type="text/javascript">document.write((new Date()).getFullYear());</script>  &nbsp;Pickard & Son. All Rights Reserved.</a>
+
+<!-- VOLUSION LINK - BEGIN Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement. -->   
+
+Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.</p>
+<!-- VOLUSION LINK - END -->
+
+	</div>
+</div>
+</div>
+
+
+
+
+<script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+</body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script	type="text/javascript">
+if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
+  else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
+</script>
+<script type="text/javascript">
+var Config_CDN_URL = '/'
+</script>
+<script type="text/javascript" src="/v/vspfiles/templates/chesscentral/Menu_Popout_Styles.js"></script>
+<script type="text/javascript" src="/v/vspfiles/templates/chesscentral/Menu_Popout_Data.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Tips for Winning Chess Strategy - Example Answers</title>
+<meta name="description" content="Here are the answers to the 10 examples of winning chess strategy. Tips for playing a winning chess strategy. Learn from the best! International Grandmaster Arthur Bisguier shows you 10 tips for chess strategy." />
+<meta name="keywords" content="Tips for Winning Chess Strategy - Answers" />
+<meta name="robots" content="index,follow" />
+<meta name="GOOGLEBOT" content="INDEX, FOLLOW" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2697140-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+<link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet" />
+
+
+<script type="text/javascript">
+	var Config_VCompare_MaxProducts = '3';
+	var PageText_783 = "Compare";
+	var PageText_784 = "Change Selections";
+	var PageText_785 = "You've attempted to select more than {0} items. Click {1} to continue with your initial {0} items or {2} to change your selections.";
+	var PageText_819 = "Product Comparison";
+    var PageText_822 = "Compare";
+    var PageText_840 = "Create Password";
+    var PageText_841 = "Retype Password";
+    var PageText_842 = "Added to cart";
+    var PageText_843 = "Subtotal";
+    var PageText_844 = "items in cart";
+</script>
+
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+
+<script type="text/javascript">
+	var Config_Search_Auto_Complete = false;
+</script>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!--
+DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
+DO NOT ADD YOUR OWN META TAGS
+ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
+-->
+
+<link href="/v/vspfiles/templates/chesscentral/css/Imports.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+        <link rel="stylesheet" type="text/css" href="/v/vspfiles/templates/chesscentral/css/ie8.css" />
+<![endif]-->
+<!-- <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot" />  -->
+</head>
+
+<!-- ======================== FILE INFO ========================
+Company Name:
+Designer: 
+Coder: DJR
+URL: 
+Date: MONTH 2011
+======================== END INFO ======================== -->
+
+<body id="body">
+<div id="page_wrapper">
+
+<!-- ======================== HEADER ======================== -->
+<div id="header_wrap">
+<div id="header">
+	<div id="display_homepage_title"><span itemscope itemtype='http://schema.org/Store'><meta itemprop='name' content='www.chesscentral.com'><a href="http://www.chesscentral.com/default.asp" title="www.chesscentral.com">www.chesscentral.com</a></span></div>
+    
+	<div class="site_tools">
+		<a href="http://www.chesscentral.com/login.asp">Login</a>/
+		<a href="http://www.chesscentral.com/myaccount.asp">My Account</a>/
+		<a href="http://www.chesscentral.com/orders.asp">Order Status</a>/
+		<a href="https://www.chesscentral.com/ShoppingCart.asp?">View Cart</a>/
+		<a href="/Chess_Customer_Service_Contact_a/46.htm">Contact Us</a>
+	</div>
+	
+	<div id="worldwide_shipping">
+		<a href="/Chess_Product_Shipping_Information_a/39.htm">Low International Rates &gt;&gt;</a>
+	</div>	
+
+	<a id="deal_of_the_day" href="/dealoftheday.asp">Learn More &gt;&gt;</a>
+
+  <!-- ======================== SHOPPING CART DISPLAY ======================== -->
+  <div id="cart_wrapper" class="cart_wrapper">
+  	<a href="/shoppingcart.asp">My Cart</a>
+		<a id="display_cart_summary" href="/shoppingcart.asp"><div class="cartsummary_full">(0 Items: $0.00)&nbsp;<a href="/ShoppingCart.asp"></a></div></a>
+ <a href="/WishList.asp">My Wish List </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ <a href="http://www.chesscentral.com/New_Year_Coupon_a/505.htm">10% Off! Coupon Code: DEAL10</a> </div>
+    
+	<!-- ======================== SEARCH BOX ======================== -->
+<div id="display_search">
+       	<form action="http://www.chesscentral.com/SearchResults.asp" method="get" name="SearchBoxForm">
+            <input type="text" name="Search" id="search_input" value="enter keywords here..." onfocus="if (this.value == 'enter keywords here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords here...';}" />
+	<input type="submit" name="Submit" id="search_submit" value="Search" />
+        </form>
+    </div>
+</div>
+
+<!-- ======================== TOP NAV ======================== -->
+<div id="top_nav">
+  <div id="display_menu_1">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">display_menu_1();</script>
+</div>
+    
+</div>
+<div class="clear"></div>
+
+<div id="content_top"></div>
+<!-- ======================== CONTENT ======================== -->
+<div id="content">
+     <!-- END IF HOMEPAGE -->
+
+      <div id="left_nav">
+        <div id="left_nav_wrap">
+          <div id="left_nav_inner">      
+	        
+	
+	        <h3 id="Menu2_Title">Departments</h3>
+	        <div id="display_menu_2">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">display_menu_2();</script>
+</div>
+	        
+	        <h3 id="Menu3_Title">Best in Chess</h3>
+	        <div id="display_menu_3"></div>
+	        
+	                
+	        <!--div id="DropDown_ShopBy_Manufacturer" param_defaultvalue="Shop By Brand">
+	        <select><option>Shop By </option></select></div-->
+	        <!--div id="DropDown_ShopBy_Price" param_defaultvalue="Shop By Price">
+	        <select><option>Shop By </option></select></div-->
+	        <!--div id="DropDown_ShopBy_Category" param_category="X" param_defaultvalue="Shop By Category">
+	        <select><option>Shop By </option></select></div-->
+	            
+	        <div id="display_promotions_999"><div align="center"><a class="productnamecolor colors_productname" title="Fritz 13 &amp; Bonus, fritz-13" href="http://www.chesscentral.com/Fritz_13_chess_software_p/fritz-13.htm"><span style="font-size: 10pt;">Fritz 13 &amp; Bonus</span></a><br><a class="productnamecolor colors_productname" title="Magnetic Travel Chess Set, 1965418" href="http://www.chesscentral.com/Magnetic_Wooden_Chess_Set_p/1965418.htm"><span style="font-size: 10pt;">Magnetic Travel Chess Set </span></a><br><a href="http://www.chesscentral.com/All_Things_Chess_p/all-things-chess.htm"><span style="font-size: 10pt;">All Things Chess 10 DVDs</span></a><br><a class="productnamecolor colors_productname" title="Value Chess Set Collection: Travel Tournament Chess Set, 34 Chess Pieces (2 Extra Queens), Chess  Board and Canvas Archer Quiver Tote Bag, CS04c" href="http://www.chesscentral.com/chess_set_p/cs04c.htm"><span style="font-size: 10pt;">Value Chess Set Collection</span></a><br><a href="http://www.chesscentral.com/Roman_s_Lab_Russian_School_of_Chess_p/roman-62-64.htm" class="productnamecolor colors_productname" title="Russian School of Chess"><span style="font-size: 10pt;">Russian School DVDs</span></a><br><a href="http://www.chesscentral.com/Houdini_3_PRO_Chess_Playing_Software_p/houdini-3-pro-cb.htm" class="productnamecolor colors_productname" title="Houdini 3 Pro Chess Software"><span style="font-size: 10pt;">Houdini 3 Pro</span></a><br><a href="http://www.chesscentral.com/ChessBase_12_Starter_Package_p/chessbase-12-starter.htm" class="productnamecolor colors_productname" title="ChessBase 12  Chess Software"><span style="font-size: 10pt;">ChessBase 12 Package</span></a><br><br><br><br></div><br><div align="center"><span style="font-weight: bold; color: rgb(128, 0, 0);"><br>Fritz 13<br> Chess Playing Software<br></span><br></div><div align="center"><a href="http://www.chesscentral.com/Fritz_13_chess_software_p/fritz-13.htm" title="Fritz 13 Chess Playing Software"><img alt="Fritz 13 Chess Playing Software" src="/v/vspfiles/assets/images/fritz13.jpg" border="0px" align=""></a><br></div><br><img alt="Your Trusted Chess Shop" src="/v/vspfiles/assets/images/shop-confidence.jpg" border="0px" align=""><br><center><br><BR><center><!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="ae87f416-8a9d-40d2-91d9-61432d207689";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js" ></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card Services</a> </div></center><br>
+
+<a id="bbblink" class="rbvtbul" href="https://www.bbb.org/dallas/business-reviews/computers-hardware-software-and-services/chesscentral-in-charlotte-nc-90005265#bbblogo" title="ChessCentral, Computers Hardware, Software & Services, Charlotte, NC" style="display: block;position: relative;overflow: hidden; width: 80px; height: 130px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-dallas.bbb.org/logo/rbvtbul/chesscentral-90005265.png" width="160" height="130" alt="ChessCentral, Computers Hardware, Software & Services, Charlotte, NC" /></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-dallas.bbb.org' + unescape('%2Flogo%2Fchesscentral-90005265.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br /><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.chesscentral.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br /></div>
+            </div>        
+          </div>
+      </div>
+      <div id="content_area">
+
+    <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
+        <tr> 
+            <td>
+			<b>Tips for Winning Chess Strategy - Answers</b><br>
+<i>Answers to the 10 Tips examples</i><br>
+<br>
+<h1 style="text-align: center;">Winning Chess Strategy</h1>
+<p align="center">
+</p><h3 align="center"><span style="font-style: italic;">by International Grandmaster Arthur Bisguier</span></h3>
+<p></p><h2>Answers to Chess Strategy Examples<br></h2>
+
+<p><span style="font-weight: bold;">Chess Strategy - Example A:
+</span>White is threatening to play Qxf7 checkmate! Black defends best by
+moving 1...Nf6. This move meets the threat and develops the Knight to a
+good square.</p>
+<p><span style="font-weight: bold;">Chess Strategy- Example B:
+</span>White can win his pawn back immediately with a move like 1.Nbxd4.
+But did you look for a better move? By playing 1 Nc7+, you can win Black's Queen!</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example C:
+</span>One good plan for White here would be an attack on Black's
+King.
+Once he has decided to do this, White should figure out how to bring his pieces
+to that area of the board. After 1.f4, for example, White can bring his Rook to
+f3 and then to g3 or h3, where it would exert pressure around Black's King.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example D:
+</span>White's threat here is to play Nxf7, with a double attack on
+Black's Queen and Rook. Black should simply castle (0-0). Now if White continues
+with his "threat," Black merely captures the Knight and the Bishop.
+That continuation would be</p>
+<p>1...0-0&nbsp; 2.Nxf7 Rxf7 3.Bxf7+ Kxf7</p>
+<p>You can see that White has traded Bishop and Knight for Black's Rook and
+pawn. That's about an even exchange, except - in the early part of the game
+especially - these two pieces are often handier than the Rook. Note that White
+has exchanged his only developed pieces, while Black has a Bishop and two Knights ready to attack.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example E:</span>
+Here is an example where a Knight is better than a Bishop. The
+Bishop is trapped behind its own pawns, while the Knight is free to hop in and
+out of Black's position. It will be easy to maneuver the Knight to f6, and if Black defends the pawn at h7 with his
+King, White's King will enter Black's
+position by way of c5 or e5, with decisive effect.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example F:</span>
+The tables turn; Black's Knight moves so slowly that after
+1 h6,
+the pawn cannot be prevented from reaching the eighth rank and being promoted.
+If Black has a Bishop on b6 instead of the Knight, he could answer 1.h6 with 1...Bd4+, when the
+Bishop would control the crucial square h8.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example G:
+</span>It is easy to see that White has control of the center in this
+position. His pawns occupy center squares, while Black's pawns are not
+yet
+involved in the struggle. Note how easy it will be for White to develop
+his Bishops to squares that help control the center, while
+Black's Bishops are
+hemmed in by his own pawns.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example H:
+</span>There, too, White has more central control and a freer game. The
+pawn at e4 attacks two squares on Black's half of the board and helps control
+d5, preventing the pawn on d6 from advancing while providing protection in the
+event that white plays Nd5. White can put a Rook on d1 later to put pressure on
+the d-file.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example I:
+</span>This example shows why King safety is the most important factor.
+Black is ahead in material by a Bishop and a pawn, has control of the center,
+and has more pieces developed, but this is all worthless because he is unable to
+prevent white from playing Qxh7, checkmate!</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example J:
+</span>White has doubled pawns on the e-file, normally a disadvantage.
+Here, though, the pawn on e3 controls the vital squares d4 and f4. Also, White
+can mount an attack by putting his Rooks and Queen on the f-file, which is no
+longer blocked by one of his pawns.</p>
+<p>These doubled pawns could turn out to be weak in the endgame.
+Therefore, White should avoid unnecessary exchanges and concentrate on
+winning in the
+middlegame.</p>
+<p>As you can see, this forces Black's Queen to capture White's Queen, placing
+the White King in stalemate. The game would be a draw!</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example K:
+ </span> Black has the "healthier" set of pawns here, since
+White
+has doubled pawns on both the a- and c-files. Such pawns cannot protect each
+other. Also, notice that the trailing or "caboose" pawn must stay
+forever behind his leader. A set of doubled pawns are worth little more than one
+pawn.</p>
+<p><span style="font-weight: bold;">Chess Strategy - Example L:
+ </span> Did you get this one? It's a toughie. As Black in this superior
+position, if you capture White's Knight on e5 with your Knight (1...Nxe5)
+instead of your Queen (1...Qxe5), then white should move 2.Qf2+!</p>
+
+<p><span style="font-weight: bold;">Thank you for visiting our chess strategy page.&nbsp; <a title="Chess Strategy" href="https://www.chesscentral.com/Chess_Strategy_a/201.htm">Here are&nbsp; more tips on chess strategy. </a><br></span></p>
+
+            </td>
+        </tr>
+    </table>
+
+
+</div>
+    
+    <div class="clear"></div>
+</div>
+<div id="content_bottom"></div>
+</body>
+</html>
